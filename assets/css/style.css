@@ -1,0 +1,40 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+.text-white { color: #fff; }
+.bg-white { background-color: #fff; }
+
+.bg-black {background-color: #000000; }
+.text-black {color:#000;}
+
+.bg-green { background-color: #262b6e; }
+.text-green {color: #67C232; }
+
+.candidate_photo {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #080739;
+    border-radius: 100%;
+}
+
+.cont{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.content-section{
+    float: left;
+    width: 55%;
+}
+
+.image_section{
+    float: right;
+    width: 40%;
+}
+
+.social a {
+    color: #0a0c30;
+    margin: 1rem;
+}
