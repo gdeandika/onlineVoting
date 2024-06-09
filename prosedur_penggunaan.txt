@@ -1,0 +1,21 @@
+============================================
+WEBSITE ONLINE VOTING "VOTIFY".
+
+
+Anda dapat login sebagai admin dengan menggunakan:
+no contact : 123454
+password : 12345
+
+Jika anda ingin login sebagai user tapi belum memiliki akun bisa langsung sign up. Mohon untuk no contact dan password tetap diingat karena digunakan untuk proses login.
+
+- Cara pengaplikasian Database
+	
+	1. Silakan masuk ke phpMyAdmin
+	2. lalu buat database dengan nama : onlinevotingsystem
+	3. Setelah itu import file database yang terdapat pada folder database di phpMyAdmin
+	4. Proses selesai, anda dapat menggunakan database sesuai dengan kebutuhan anda
+
+
+Terimakasih dan semoga berhasil
+
+Kami dari Kelompok Online Voting "VOTIFY" pamit undur diri.
